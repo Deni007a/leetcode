@@ -2,15 +2,15 @@
  * @param {string[]} strs
  * @return {string}
  */
-//самый длинный префикес
+//самый длинный префикс
 export function longestCommonPrefix(strs) {
     if (!strs.length) return '';
     let prefix = '';
-    // берем за основы первое слово и сравниваем  с другими по буквенно
+    // берем за основы первое слово и сравниваем с другими по буквенно
     for (let i = 0; i < strs[0].length; i++) {
         const char = strs[0][i];
 
-        // начианем сравнивать со втрого слова индекс 1
+        // Начинаем сравнивать со второго слова индекс 1
         for (let j = 1; j < strs.length; j++) {
             if (strs[j][i] !== char) {
                 return prefix;
@@ -24,12 +24,12 @@ export function longestCommonPrefix(strs) {
 }
 
 
-export function longestCommonPrefix2(strs){
+export function longestCommonPrefix2(strs) {
     if (!strs.length) return '';
 
-    // сортируем строки по алфавиту поэтому  разные строки окажутся на концах
+    // сортируем строки по алфавиту поэтому разные строки окажутся на концах
     strs.sort();
-     //берём первую и последнюю строку после сортировки различия покажут границу общего префикса
+    //берём первую и последнюю строку после сортировки различия покажут границу общего префикса
     const first = strs[0];
     const last = strs[strs.length - 1];
 
