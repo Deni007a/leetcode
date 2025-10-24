@@ -1,10 +1,29 @@
 # https://leetcode.com
 
-
-_______________________________________________________________________________________________________________
-| Название          |Ссылка|Документация|
-|-------------------|---|---|
-| 26 remove-duplicates-from-sorted-array|https://leetcode.com/problems/remove-duplicates-from-sorted-array/ |[Документация](src/remove-duplicates-from-sorted-array)|
-| 27 remove-element |https://leetcode.com/problems/remove-element/description/ | [Документация](src/remove-element) |
-| 28 find-the-index-of-the-first-occurrence-in-a-string |https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/ | [Документация](src/find-the-index-of-the-first-occurrence-in-a-string) |
-|6. Zigzag Conversion|https://leetcode.com/problems/zigzag-conversion/ | [Документация](src/zigzag-conversion) |
+| Название                                               | Ссылка                                                                            | Документация                                                           |
+|--------------------------------------------------------|-----------------------------------------------------------------------------------|------------------------------------------------------------------------|
+| 1. Two Sum                                             | https://leetcode.com/problems/two-sum/                                            | [Документация](src/two-sum)                                            |
+| 3. Longest Substring Without Repeating Characters      | https://leetcode.com/problems/longest-substring-without-repeating-characters/     | [Документация](src/longest-substring-without-repeating-characters)     |
+| 5. Longest Palindromic Substring                       | https://leetcode.com/problems/longest-palindromic-substring/                      | [Документация](src/longest-palindromic-substring)                      |
+| 6. Zigzag Conversion                                   | https://leetcode.com/problems/zigzag-conversion/                                  | [Документация](src/zigzag-conversion)                                  |
+| 8. String to Integer (atoi)                            | https://leetcode.com/problems/string-to-integer-atoi/                             | [Документация](src/string-to-integer-atoi)                             |
+| 12. Integer to Roman                                   | https://leetcode.com/problems/integer-to-roman/                                   | [Документация](src/integer-to-roman)                                   |
+| 13. Roman to Integer                                   | https://leetcode.com/problems/roman-to-integer/                                   | [Документация](src/roman-to-integer)                                   |
+| 15. 3Sum                                               | https://leetcode.com/problems/3sum/                                               | [Документация](src/3sum)                                               |
+| 20. Valid Parentheses                                  | https://leetcode.com/problems/valid-parentheses/                                  | [Документация](src/valid-parentheses)                                  |
+| 21. Merge Two Sorted Lists                             | https://leetcode.com/problems/merge-two-sorted-lists/                             | [Документация](src/merge-two-sorted-lists)                             |
+| 26. Remove Duplicates from Sorted Array                | https://leetcode.com/problems/remove-duplicates-from-sorted-array/                | [Документация](src/remove-duplicates-from-sorted-array)                |
+| 27. Remove Element                                     | https://leetcode.com/problems/remove-element/                                     | [Документация](src/remove-element)                                     |
+| 28. Find the Index of the First Occurrence in a String | https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/ | [Документация](src/find-the-index-of-the-first-occurrence-in-a-string) |
+| 35. Search Insert Position                             | https://leetcode.com/problems/search-insert-position/                             | [Документация](src/search-insert-position)                             |
+| 42. Trapping Rain Water                                | https://leetcode.com/problems/trapping-rain-water/                                | [Документация](src/trapping-rain-water)                                |
+| 49. Group Anagrams                                     | https://leetcode.com/problems/group-anagrams/                                     | [Документация](src/group-anagrams)                                     |
+| 83. Remove Duplicates from Sorted List                 | https://leetcode.com/problems/remove-duplicates-from-sorted-list/                 | [Документация](src/remove-duplicates-from-sorted-list)                 |
+| 128. Longest Consecutive Sequence                      | https://leetcode.com/problems/longest-consecutive-sequence/                       | [Документация](src/longest-consecutive-sequence)                       |
+| 202. Happy Number                                      | https://leetcode.com/problems/happy-number/                                       | [Документация](src/happy-number)                                       |
+| 206. Reverse Linked List                               | https://leetcode.com/problems/reverse-linked-list/                                | [Документация](src/reverse-linked-list)                                |
+| 217. Contains Duplicate                                | https://leetcode.com/problems/contains-duplicate/                                 | [Документация](src/contains-duplicate)                                 |
+| 238. Product of Array Except Self                      | https://leetcode.com/problems/product-of-array-except-self/                       | [Документация](src/product-of-array-except-self)                       |
+| 242. Valid Anagram                                     | https://leetcode.com/problems/valid-anagram/                                      | [Документация](src/valid-anagram)                                      |
+| 271. Encode and Decode Strings                         | https://leetcode.com/problems/encode-and-decode-strings/                          | [Документация](src/encode-and-decode-strings)                          |
+| 347. Top K Frequent Elements                           | https://leetcode.com/problems/top-k-frequent-elements/                            | [Документация](src/top-k-frequent-elements)                            |
