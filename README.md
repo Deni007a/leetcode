@@ -36,3 +36,4 @@
 | 125. Valid Palindrome                                  | https://leetcode.com/problems/valid-palindrome/                                   | [Документация](src/valid-palindrome)                                   |
 | 11. Container With Most Water                          | https://leetcode.com/problems/container-with-most-water/                          | [Документация](src/container-with-most-water)                          |
 | 75. Sort Colors                                        | https://leetcode.com/problems/sort-colors/                                        | [Документация](src/sort-colors)                                        |
+| 202. Happy Number                                      | https://leetcode.com/problems/happy-number/                                       | [Документация](src/happy-number)                                       |
