@@ -37,3 +37,4 @@
 | 11. Container With Most Water                          | https://leetcode.com/problems/container-with-most-water/                          | [Документация](src/container-with-most-water)                          |
 | 75. Sort Colors                                        | https://leetcode.com/problems/sort-colors/                                        | [Документация](src/sort-colors)                                        |
 | 202. Happy Number                                      | https://leetcode.com/problems/happy-number/                                       | [Документация](src/happy-number)                                       |
+| 287. Find the Duplicate Number                         | https://leetcode.com/problems/find-the-duplicate-number/                          | [Документация](src/find-the-duplicate-number)                          |
